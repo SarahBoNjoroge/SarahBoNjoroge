@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD4F7&center=true&vCenter=true&random=false&width=600&lines=Hi+👋,+I'm+Sarah+Wambui+Njoroge;Computer+Science+Student+@+Chuka+University;Passionate+About+Building+Real+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD4F7&center=true&vCenter=true&random=false&width=600&lines=Hi+👋,+I'm+Sarah+Njoroge;Computer+Science+Student;Passionate+About+Building+Real+Solutions)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=SarahBoNjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
