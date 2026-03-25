@@ -1,40 +1,81 @@
-## Hi there 👋
-I am Sarah Njoroge.
+# 👋 Hi, I'm Bobo
 
-About Me
-Full stack developer
-Built a bookshop e-commerce system
-Passionate about building complete,real world systems 
-Skills
-Programming languages
-Java, JavaScript, PHP,Python 
-Web development 
-Next.js, HTML,CSS
-Database 
-MySQL(XAMPP)
-Tools and technologies
-Git&Github,Java FX,VS Code,XAMPP
-Projects
-Bookshop system
-Full stack(Next.js +PHP+MySQL)
-Features:
-User authentication 
-Book ordering system
-Invoice generation
-Admin dashboard 
-Contact me
-Email:sarahwambuinjoroge22@gmail.com 
+💻 Full-Stack Developer passionate about building real-world systems with strong backend and database design.
 
-**SarahBoNjoroge/SarahBoNjoroge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔧 I build complete systems from frontend to backend
+* 🏦 Developed a **Bank Management System** using JavaFX
+* 📚 Currently working on a **Bookshop E-commerce System**
+* 🛠 I enjoy solving problems with clean and efficient code
+* 🎯 Focused on backend logic and database architecture
+
+---
+
+## 🧠 Tech Stack
+
+### 👨‍💻 Languages
+
+* Java
+* JavaScript
+* PHP
+* SQL
+
+### 🌐 Web
+
+* Next.js
+* HTML5
+* CSS3
+* REST APIs
+
+### 🗄 Database
+
+* MySQL (XAMPP)
+* Database Design (ERD, normalization)
+
+### 🧰 Tools
+
+* Git & GitHub
+* VS Code
+* JavaFX
+* XAMPP
+
+---
+
+## 📦 Projects
+
+### 🏦 Compeers Bank Management System
+
+* JavaFX-based desktop application
+* Manages accounts, transactions, and users
+* Designed full database structure
+
+### 📚 Compeers Bookshop System
+
+* Full-stack (Next.js + PHP + MySQL)
+* Features:
+
+  * User authentication
+  * Book ordering system
+  * Invoice generation
+  * Admin dashboard
+
+---
+
+## 📈 Currently Improving
+
+* Advanced backend development
+* System design
+* API security
+
+---
+
+## 📫 Contact
+
+* Email: sarahwambuinjoroge22@gmail.com
+
+---
+
+⭐️ *Always building, always learning*
