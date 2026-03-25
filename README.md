@@ -62,7 +62,3 @@
 </div>
 
 ---
-
-<div align="center">
-<i>⭐ "Code is like humour. When you have to explain it, it's bad." – Cory House</i>
-</div>
